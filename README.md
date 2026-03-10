@@ -6,7 +6,7 @@
 
 # 💫 About Me:
 <img align="right" alt="Coding" width="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-🔭 I’m currently working on Swasthik Project.<br>🌱 I’m currently learning React.js and exploring how AI can enhance web applications.<br>💬 Ask me about Java, Python, React.js, and Web Development.<br>📫 How to reach me malaviyadhruv02@gmail.com.<br>⚡ Fun fact I’m always exploring new tools to stay ahead in tech.
+🔭 I’m currently working on Zero-Trace Project.<br>🌱 I’m currently learning React.js and exploring how AI can enhance web applications.<br>💬 Ask me about Java, Python, React.js, and Web Development.<br>📫 How to reach me malaviyadhruv02@gmail.com.<br>⚡ Fun fact I’m always exploring new tools to stay ahead in tech.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__malaviya___) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dhruv-malaviya) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/malaviya_md) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:malaviyadhruv02@gmail.com) 
